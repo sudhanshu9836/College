@@ -1,0 +1,35 @@
+*{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+#input{
+    background-color: white;
+    height: 50px;
+    width: 600px;
+    font-size: 30px;
+}
+#search{
+    height: 94px;
+    width: 112px;
+    margin-left: -117px;
+    position: relative;
+    top: 24px;
+    background-color: yellow;
+    cursor: pointer;
+    border: 5px solid black;
+}
+.fa-solid{
+    font-size: 40px;
+    background-color: yellow;
+    position: relative;
+    bottom: 18px;
+    right: 8px;
+}
+.bar{
+    text-align: center;
+}
+.items{
+    font-size: 20px;
+    text-align: left;
+}
